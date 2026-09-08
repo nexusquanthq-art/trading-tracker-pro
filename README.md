@@ -1,4 +1,3 @@
-```markdown
 # Trading Win Rate Calculator
 
 GUI-based trading tracker that calculates win rate, tracks capital growth, and manages trade history with automatic saving.
@@ -57,7 +56,7 @@ No external libraries needed. Uses only Python standard library (tkinter, json, 
 ## How To Run
 
 ```bash
-python win_rate_calculator.py
+python Tradingtracker.py
 ```
 
 ## Data Files
